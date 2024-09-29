@@ -1,0 +1,27 @@
+#UPS
+firstName: "Andrei"
+lastName: "P"
+jobTitle: "Manager"
+
+yearsExperience: "2-4"
+
+date: "10/22/2024"
+errorMessage: "This page can't load Google Maps correctly."
+# Sender
+senderFullName: "Jack Sparrow"
+senderEmail: "jack@mail.com"
+senderPhone: "+1 650 456 6789"
+senderStreetAddress: "20800 Homestead Rd"
+senderCityName: "Cupertino"
+senderState: "CA"
+senderZip: "95014"
+
+
+# Recipient
+recipientCountry: " United Kingdom "
+recipientFullName: "Hector Barbossa"
+recipientStreetAddress: "24 Ash Avenue"
+recipientCityName: "London"
+recipientEmail: "hector@mail.com"
+recipientPhone: "+44 4555676767"
+recipientPostalCode: "SE17 1HS"
